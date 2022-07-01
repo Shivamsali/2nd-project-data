@@ -1,0 +1,83 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "category_id": 1,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/cy5Kg0v",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 2,
+            "category_id": 2,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/Bnhqn4Q",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 1,
+            "category_id": 1,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/GnhR071",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 1,
+            "category_id": 2,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/BCLqpNb",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 1,
+            "category_id": 1,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/mDdtFrC",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 1,
+            "category_id": 1,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/61FQRyL",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        },
+        {
+            "id": 1,
+            "category_id": 1,
+            "sub-category_id": 0,
+            "discount": 50,
+            "image": "https://ibb.co/L8ZfwLg",
+            "brand": "Brand",
+            "short_des": "a short line about the cloth..",
+            "price": 20,
+            "actual_price": 40
+        }
+        
+
+    ]
+}
